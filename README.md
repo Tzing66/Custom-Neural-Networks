@@ -7,4 +7,6 @@
 
 #### 'CNN' files are for the Convolutional Neural Network. The network contains 12 different layers, each present essentially to figure out how each layer behaves and to analyse the CNN's behaviour with/without them.
 
-#### There are two files for each project - A jupyter notebook and a python code file.
+##### There are two files for each project - A jupyter notebook and a python code file.
+
+##### The entire purpose of this project was to gain an understanding of how different components work when it comes to designing MLPs and CNNs, and to analyse their behaviour when we try different configurations. 
